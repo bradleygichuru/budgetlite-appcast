@@ -5,7 +5,7 @@ i<?xml version="1.0" encoding="utf-8"?>
     <item>
         <title>Version 2.0</title>
         <description>Minor updates and improvements.</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <pubDate>Fri, 1 Aug 2025 14:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
         <sparkle:version>3.0</sparkle:version>
         <sparkle:minimumSystemVersion>2.0</sparkle:minimumSystemVersion>
@@ -16,7 +16,7 @@ i<?xml version="1.0" encoding="utf-8"?>
     <item>
         <title>Version 3.0</title>
         <description>Minor updates and improvements.</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <pubDate>Thur, 26 Jul 2025 15:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
 
         <sparkle:version>3.0</sparkle:version>
@@ -26,7 +26,7 @@ i<?xml version="1.0" encoding="utf-8"?>
     <item>
         <title>Version 4.0</title>
         <description>Minor updates and improvements.</description>
-        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <pubDate>Thur, 26 Jul 2025 10:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="android" />
 
         <sparkle:version>4.0</sparkle:version>
