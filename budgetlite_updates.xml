@@ -1,0 +1,37 @@
+i<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Budgetlite</title>
+    <item>
+        <title>Version 2.0</title>
+        <description>Minor updates and improvements.</description>
+        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
+        <sparkle:version>3.0</sparkle:version>
+        <sparkle:minimumSystemVersion>2.0</sparkle:minimumSystemVersion>
+    </item>
+    <!-- The best chosen release -->
+  
+    <!-- A release testing minimumSystemVersion -->
+    <item>
+        <title>Version 3.0</title>
+        <description>Minor updates and improvements.</description>
+        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
+
+        <sparkle:version>3.0</sparkle:version>
+        <sparkle:minimumSystemVersion>2.0</sparkle:minimumSystemVersion>
+    </item>
+    <!-- A release testing maximumSystemVersion -->
+    <item>
+        <title>Version 4.0</title>
+        <description>Minor updates and improvements.</description>
+        <pubDate>Sat, 26 Jul 2014 15:20:13 +0000</pubDate>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="4.0" sparkle:os="android" />
+
+        <sparkle:version>4.0</sparkle:version>
+        <sparkle:minimumSystemVersion>2.0</sparkle:minimumSystemVersion>
+    </item>
+  </channel>
+</rss>
+
