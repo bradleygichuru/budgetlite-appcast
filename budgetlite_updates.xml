@@ -23,6 +23,16 @@ i<?xml version="1.0" encoding="utf-8"?>
        <sparkle:minimumAutoupdateVersion>2.0</sparkle:minimumAutoupdateVersion>
         <sparkle:minimumSystemVersion>3.0</sparkle:minimumSystemVersion>
     </item>
+    <item>
+        <title>Version 4.0</title>
+        <description>Minor updates v4 and improvements.</description>
+        <pubDate>Thur, 26 Jul 2025 15:20:13 +0000</pubDate>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="3.0" sparkle:os="android" />
+
+        <sparkle:version>4.0</sparkle:version>
+       <sparkle:minimumAutoupdateVersion>2.0</sparkle:minimumAutoupdateVersion>
+        <sparkle:minimumSystemVersion>3.0</sparkle:minimumSystemVersion>
+    </item>
  
   </channel>
 </rss>
