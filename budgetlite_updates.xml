@@ -3,7 +3,7 @@ i<?xml version="1.0" encoding="utf-8"?>
   <channel>
     <title>Budgetlite</title>
     <item>
-        <title>Version 2.0</title>
+        <title>Version 1.0</title>
         <description>Minor updates v2 and improvements.</description>
         <pubDate>Fri, 1 Aug 2025 14:20:13 +0000</pubDate>
         <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" sparkle:os="android" />
@@ -15,7 +15,7 @@ i<?xml version="1.0" encoding="utf-8"?>
     <!-- The best chosen release -->
   
     <!-- A release testing minimumSystemVersion -->
-    <item>
+    <!--<item>
         <title>Version 3.0</title>
         <description>Minor updates v3 and improvements.</description>
         <pubDate>Thur, 26 Jul 2025 15:20:13 +0000</pubDate>
@@ -24,7 +24,7 @@ i<?xml version="1.0" encoding="utf-8"?>
      <sparkle:criticalUpdate></sparkle:criticalUpdate>
     
       
-    </item> 
+    </item> -->
     <!--
     <item>
         <title>Version 4.0</title>
