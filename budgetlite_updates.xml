@@ -6,8 +6,8 @@ i<?xml version="1.0" encoding="utf-8"?>
         <title>Version 1.0</title>
         <description>Minor updates v2 and improvements.</description>
         <pubDate>Fri, 1 Aug 2025 14:20:13 +0000</pubDate>
-        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="2.0" sparkle:os="android" />
-        <sparkle:version>2.0</sparkle:version>
+        <enclosure url="http://localhost:1337/Sparkle_Test_App.zip" sparkle:version="1.0" sparkle:os="android" />
+        <sparkle:version>1.0</sparkle:version>
         <sparkle:criticalUpdate></sparkle:criticalUpdate>
     
    
