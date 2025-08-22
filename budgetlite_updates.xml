@@ -2,16 +2,16 @@ i<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel>
     <title>Budgetlite</title>
-    <item>
-        <title>Version 0.1.2</title>
-        <description>First test build.</description>
-        <pubDate>Mon, 11 Aug 2025 13:37:00 +0000</pubDate>
-        <enclosure url="https://github.com/bradleygichuru/budgetlite-appcast/releases/download/v0.1.2/app-release.apk" sparkle:version="1.0" sparkle:os="android" />
-        <sparkle:version>0.1.2</sparkle:version>
-        <sparkle:criticalUpdate></sparkle:criticalUpdate>
-    
-   
-    </item>
+    <!-- <item> -->
+    <!--     <title>Version 0.1.2</title> -->
+    <!--     <description>First test build.</description> -->
+    <!--     <pubDate>Mon, 11 Aug 2025 13:37:00 +0000</pubDate> -->
+    <!--     <enclosure url="https://github.com/bradleygichuru/budgetlite-appcast/releases/download/v0.1.2/app-release.apk" sparkle:version="1.0" sparkle:os="android" /> -->
+    <!--     <sparkle:version>0.1.2</sparkle:version> -->
+    <!--     <sparkle:criticalUpdate></sparkle:criticalUpdate> -->
+    <!---->
+    <!---->
+    <!-- </item> -->
     <!-- The best chosen release -->
   
     <!-- A release testing minimumSystemVersion -->
